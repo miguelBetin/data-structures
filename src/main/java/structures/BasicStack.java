@@ -1,6 +1,6 @@
 package structures;
 
-import inter.Stack;
+import interfaces.Stack;
 
 public class BasicStack<X> implements Stack<X> {
     private X[] data;

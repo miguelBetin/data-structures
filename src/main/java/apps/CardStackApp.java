@@ -1,8 +1,7 @@
 package apps;
 
-import inter.Stack;
+import interfaces.Stack;
 import structures.BasicStack;
-import structures.ListStack;
 
 public class CardStackApp {
 //    Stack<String> stack = new ListStack<>();

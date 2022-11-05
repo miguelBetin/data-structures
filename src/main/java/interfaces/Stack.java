@@ -1,4 +1,4 @@
-package inter;
+package interfaces;
 
 public interface Stack<X> {
 

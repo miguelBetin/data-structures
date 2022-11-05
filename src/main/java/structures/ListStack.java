@@ -1,6 +1,6 @@
 package structures;
 
-import inter.Stack;
+import interfaces.Stack;
 
 import java.util.ArrayList;
 
