@@ -7,7 +7,4 @@ public interface Queue<X> {
     boolean contains(X item);
     X access(int positions);
     int size();
-
-
-
 }
